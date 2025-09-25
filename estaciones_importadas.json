@@ -1,0 +1,366 @@
+[
+  {
+    "id": 8194,
+    "nombre": "Cruce Ventilla",
+    "id_externo": "Cruce Ventilla",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -66.211197,
+        -19.0661
+      ]
+    },
+    "tabla": "ctp",
+    "provincia": null,
+    "pais": null,
+    "rio": null,
+    "has_obs": null,
+    "tipo": "P",
+    "automatica": null,
+    "habilitar": true,
+    "propietario": "Comisi\u00f3n Trinacional para el Desarrollo de la Cuenca del R\u00edo Pilcomayo",
+    "abreviatura": null,
+    "URL": null,
+    "localidad": null,
+    "real": true,
+    "altitud": null,
+    "cero_ign": null,
+    "ubicacion": null
+  },
+  {
+    "id": 8195,
+    "nombre": "Huacareta",
+    "id_externo": "Huacareta",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -63.998402,
+        -20.3696
+      ]
+    },
+    "tabla": "ctp",
+    "provincia": null,
+    "pais": null,
+    "rio": null,
+    "has_obs": null,
+    "tipo": "P",
+    "automatica": null,
+    "habilitar": true,
+    "propietario": "Comisi\u00f3n Trinacional para el Desarrollo de la Cuenca del R\u00edo Pilcomayo",
+    "abreviatura": null,
+    "URL": null,
+    "localidad": null,
+    "real": true,
+    "altitud": null,
+    "cero_ign": null,
+    "ubicacion": null
+  },
+  {
+    "id": 8196,
+    "nombre": "Tarija SENAMHI",
+    "id_externo": "Tarija SENAMHI",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -64.721001,
+        -21.5427
+      ]
+    },
+    "tabla": "ctp",
+    "provincia": null,
+    "pais": null,
+    "rio": null,
+    "has_obs": null,
+    "tipo": "P",
+    "automatica": null,
+    "habilitar": true,
+    "propietario": "Comisi\u00f3n Trinacional para el Desarrollo de la Cuenca del R\u00edo Pilcomayo",
+    "abreviatura": null,
+    "URL": null,
+    "localidad": null,
+    "real": true,
+    "altitud": null,
+    "cero_ign": null,
+    "ubicacion": null
+  },
+  {
+    "id": 8197,
+    "nombre": "El Salvador",
+    "id_externo": "El Salvador",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -63.175301,
+        -20.6179
+      ]
+    },
+    "tabla": "ctp",
+    "provincia": null,
+    "pais": null,
+    "rio": null,
+    "has_obs": null,
+    "tipo": "P",
+    "automatica": null,
+    "habilitar": true,
+    "propietario": "Comisi\u00f3n Trinacional para el Desarrollo de la Cuenca del R\u00edo Pilcomayo",
+    "abreviatura": null,
+    "URL": null,
+    "localidad": null,
+    "real": true,
+    "altitud": null,
+    "cero_ign": null,
+    "ubicacion": null
+  },
+  {
+    "id": 8198,
+    "nombre": "Villamontes",
+    "id_externo": "Villamontes",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -63.503391,
+        -21.2609
+      ]
+    },
+    "tabla": "ctp",
+    "provincia": null,
+    "pais": null,
+    "rio": null,
+    "has_obs": null,
+    "tipo": "P",
+    "automatica": null,
+    "habilitar": true,
+    "propietario": "Comisi\u00f3n Trinacional para el Desarrollo de la Cuenca del R\u00edo Pilcomayo",
+    "abreviatura": null,
+    "URL": null,
+    "localidad": null,
+    "real": true,
+    "altitud": null,
+    "cero_ign": null,
+    "ubicacion": null
+  },
+  {
+    "id": 8199,
+    "nombre": "Tartagal",
+    "id_externo": "Tartagal",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -63.490002,
+        -22.39
+      ]
+    },
+    "tabla": "ctp",
+    "provincia": null,
+    "pais": null,
+    "rio": null,
+    "has_obs": null,
+    "tipo": "P",
+    "automatica": null,
+    "habilitar": true,
+    "propietario": "Comisi\u00f3n Trinacional para el Desarrollo de la Cuenca del R\u00edo Pilcomayo",
+    "abreviatura": null,
+    "URL": null,
+    "localidad": null,
+    "real": true,
+    "altitud": null,
+    "cero_ign": null,
+    "ubicacion": null
+  },
+  {
+    "id": 8200,
+    "nombre": "Yacuiba",
+    "id_externo": "Yacuiba",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -63.655899,
+        -21.966
+      ]
+    },
+    "tabla": "ctp",
+    "provincia": null,
+    "pais": null,
+    "rio": null,
+    "has_obs": null,
+    "tipo": "P",
+    "automatica": null,
+    "habilitar": true,
+    "propietario": "Comisi\u00f3n Trinacional para el Desarrollo de la Cuenca del R\u00edo Pilcomayo",
+    "abreviatura": null,
+    "URL": null,
+    "localidad": null,
+    "real": true,
+    "altitud": null,
+    "cero_ign": null,
+    "ubicacion": null
+  },
+  {
+    "id": 8201,
+    "nombre": "Itau",
+    "id_externo": "Itau",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -63.868679,
+        -21.7041
+      ]
+    },
+    "tabla": "ctp",
+    "provincia": null,
+    "pais": null,
+    "rio": null,
+    "has_obs": null,
+    "tipo": "P",
+    "automatica": null,
+    "habilitar": true,
+    "propietario": "Comisi\u00f3n Trinacional para el Desarrollo de la Cuenca del R\u00edo Pilcomayo",
+    "abreviatura": null,
+    "URL": null,
+    "localidad": null,
+    "real": true,
+    "altitud": null,
+    "cero_ign": null,
+    "ubicacion": null
+  },
+  {
+    "id": 8202,
+    "nombre": "Entre Rios",
+    "id_externo": "Entre Rios",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -64.168808,
+        -21.5038
+      ]
+    },
+    "tabla": "ctp",
+    "provincia": null,
+    "pais": null,
+    "rio": null,
+    "has_obs": null,
+    "tipo": "P",
+    "automatica": null,
+    "habilitar": true,
+    "propietario": "Comisi\u00f3n Trinacional para el Desarrollo de la Cuenca del R\u00edo Pilcomayo",
+    "abreviatura": null,
+    "URL": null,
+    "localidad": null,
+    "real": true,
+    "altitud": null,
+    "cero_ign": null,
+    "ubicacion": null
+  },
+  {
+    "id": 8203,
+    "nombre": "Algarrobilla",
+    "id_externo": "Algarrobilla",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -63.293701,
+        -21.8633
+      ]
+    },
+    "tabla": "ctp",
+    "provincia": null,
+    "pais": null,
+    "rio": null,
+    "has_obs": null,
+    "tipo": "P",
+    "automatica": null,
+    "habilitar": true,
+    "propietario": "Comisi\u00f3n Trinacional para el Desarrollo de la Cuenca del R\u00edo Pilcomayo",
+    "abreviatura": null,
+    "URL": null,
+    "localidad": null,
+    "real": true,
+    "altitud": null,
+    "cero_ign": null,
+    "ubicacion": null
+  },
+  {
+    "id": 8204,
+    "nombre": "Tarija Aero",
+    "id_externo": "Tarija Aero",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -64.7108,
+        -21.5463
+      ]
+    },
+    "tabla": "ctp",
+    "provincia": null,
+    "pais": null,
+    "rio": null,
+    "has_obs": null,
+    "tipo": "P",
+    "automatica": null,
+    "habilitar": true,
+    "propietario": "Comisi\u00f3n Trinacional para el Desarrollo de la Cuenca del R\u00edo Pilcomayo",
+    "abreviatura": null,
+    "URL": null,
+    "localidad": null,
+    "real": true,
+    "altitud": null,
+    "cero_ign": null,
+    "ubicacion": null
+  },
+  {
+    "id": 8205,
+    "nombre": "Padcaya",
+    "id_externo": "Padcaya",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -64.7118,
+        -21.8848
+      ]
+    },
+    "tabla": "ctp",
+    "provincia": null,
+    "pais": null,
+    "rio": null,
+    "has_obs": null,
+    "tipo": "P",
+    "automatica": null,
+    "habilitar": true,
+    "propietario": "Comisi\u00f3n Trinacional para el Desarrollo de la Cuenca del R\u00edo Pilcomayo",
+    "abreviatura": null,
+    "URL": null,
+    "localidad": null,
+    "real": true,
+    "altitud": null,
+    "cero_ign": null,
+    "ubicacion": null
+  },
+  {
+    "id": 8206,
+    "nombre": "Narvaez",
+    "id_externo": "Narvaez",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -64.278397,
+        -21.4044
+      ]
+    },
+    "tabla": "ctp",
+    "provincia": null,
+    "pais": null,
+    "rio": null,
+    "has_obs": null,
+    "tipo": "P",
+    "automatica": null,
+    "habilitar": true,
+    "propietario": "Comisi\u00f3n Trinacional para el Desarrollo de la Cuenca del R\u00edo Pilcomayo",
+    "abreviatura": null,
+    "URL": null,
+    "localidad": null,
+    "real": true,
+    "altitud": null,
+    "cero_ign": null,
+    "ubicacion": null
+  }
+]

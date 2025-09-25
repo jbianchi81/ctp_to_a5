@@ -1,0 +1,223 @@
+[
+  {
+    "nombre": "Cruce Ventilla",
+    "id_externo": "Cruce Ventilla",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -66.211197,
+        -19.0661
+      ]
+    },
+    "tabla": "ctp",
+    "tipo": "P",
+    "habilitar": true,
+    "propietario": "Comisión Trinacional para el Desarrollo de la Cuenca del Río Pilcomayo",
+    "real": true,
+    "public": false
+  },
+  {
+    "nombre": "Huacareta",
+    "id_externo": "Huacareta",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -63.998402,
+        -20.3696
+      ]
+    },
+    "tabla": "ctp",
+    "tipo": "P",
+    "habilitar": true,
+    "propietario": "Comisión Trinacional para el Desarrollo de la Cuenca del Río Pilcomayo",
+    "real": true,
+    "public": false
+  },
+  {
+    "nombre": "Tarija SENAMHI",
+    "id_externo": "Tarija SENAMHI",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -64.721001,
+        -21.5427
+      ]
+    },
+    "tabla": "ctp",
+    "tipo": "P",
+    "habilitar": true,
+    "propietario": "Comisión Trinacional para el Desarrollo de la Cuenca del Río Pilcomayo",
+    "real": true,
+    "public": false
+  },
+  {
+    "nombre": "El Salvador",
+    "id_externo": "El Salvador",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -63.175301,
+        -20.6179
+      ]
+    },
+    "tabla": "ctp",
+    "tipo": "P",
+    "habilitar": true,
+    "propietario": "Comisión Trinacional para el Desarrollo de la Cuenca del Río Pilcomayo",
+    "real": true,
+    "public": false
+  },
+  {
+    "nombre": "Villamontes",
+    "id_externo": "Villamontes",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -63.503391,
+        -21.2609
+      ]
+    },
+    "tabla": "ctp",
+    "tipo": "P",
+    "habilitar": true,
+    "propietario": "Comisión Trinacional para el Desarrollo de la Cuenca del Río Pilcomayo",
+    "real": true,
+    "public": false
+  },
+  {
+    "nombre": "Tartagal",
+    "id_externo": "Tartagal",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -63.490002,
+        -22.39
+      ]
+    },
+    "tabla": "ctp",
+    "tipo": "P",
+    "habilitar": true,
+    "propietario": "Comisión Trinacional para el Desarrollo de la Cuenca del Río Pilcomayo",
+    "real": true,
+    "public": false
+  },
+  {
+    "nombre": "Yacuiba",
+    "id_externo": "Yacuiba",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -63.655899,
+        -21.966
+      ]
+    },
+    "tabla": "ctp",
+    "tipo": "P",
+    "habilitar": true,
+    "propietario": "Comisión Trinacional para el Desarrollo de la Cuenca del Río Pilcomayo",
+    "real": true,
+    "public": false
+  },
+  {
+    "nombre": "Itau",
+    "id_externo": "Itau",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -63.868679,
+        -21.7041
+      ]
+    },
+    "tabla": "ctp",
+    "tipo": "P",
+    "habilitar": true,
+    "propietario": "Comisión Trinacional para el Desarrollo de la Cuenca del Río Pilcomayo",
+    "real": true,
+    "public": false
+  },
+  {
+    "nombre": "Entre Rios",
+    "id_externo": "Entre Rios",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -64.168808,
+        -21.5038
+      ]
+    },
+    "tabla": "ctp",
+    "tipo": "P",
+    "habilitar": true,
+    "propietario": "Comisión Trinacional para el Desarrollo de la Cuenca del Río Pilcomayo",
+    "real": true,
+    "public": false
+  },
+  {
+    "nombre": "Algarrobilla",
+    "id_externo": "Algarrobilla",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -63.293701,
+        -21.8633
+      ]
+    },
+    "tabla": "ctp",
+    "tipo": "P",
+    "habilitar": true,
+    "propietario": "Comisión Trinacional para el Desarrollo de la Cuenca del Río Pilcomayo",
+    "real": true,
+    "public": false
+  },
+  {
+    "nombre": "Tarija Aero",
+    "id_externo": "Tarija Aero",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -64.7108,
+        -21.5463
+      ]
+    },
+    "tabla": "ctp",
+    "tipo": "P",
+    "habilitar": true,
+    "propietario": "Comisión Trinacional para el Desarrollo de la Cuenca del Río Pilcomayo",
+    "real": true,
+    "public": false
+  },
+  {
+    "nombre": "Padcaya",
+    "id_externo": "Padcaya",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -64.7118,
+        -21.8848
+      ]
+    },
+    "tabla": "ctp",
+    "tipo": "P",
+    "habilitar": true,
+    "propietario": "Comisión Trinacional para el Desarrollo de la Cuenca del Río Pilcomayo",
+    "real": true,
+    "public": false
+  },
+  {
+    "nombre": "Narvaez",
+    "id_externo": "Narvaez",
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        -64.278397,
+        -21.4044
+      ]
+    },
+    "tabla": "ctp",
+    "tipo": "P",
+    "habilitar": true,
+    "propietario": "Comisión Trinacional para el Desarrollo de la Cuenca del Río Pilcomayo",
+    "real": true,
+    "public": false
+  }
+]
